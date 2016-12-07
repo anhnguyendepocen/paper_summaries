@@ -5,7 +5,9 @@ Tags： summary
 ---
 
 **Authors:** Amos Tversky and Daniel Kahneman
+
 **Journal:** Science, 27 Sep 1974: 1124-1131
+
 **Subtitle:** Biases in judgments reveal some heuristics of thinking under uncertainty.
 
 ##Introduction
