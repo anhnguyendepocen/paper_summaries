@@ -1,4 +1,4 @@
-﻿# Modeling the Psychology of Consumer and Firm Behavior with Behavioral Economics
+# Modeling the Psychology of Consumer and Firm Behavior with Behavioral Economics
 
 Tags: summary
 
@@ -7,6 +7,8 @@ Tags: summary
 **Authors:** Teck H. Ho, Noah Lim, Colin F. Camerer
 
 **Journal:** Journal of Marketing Research, Vol. XLIII (August 2006), pp.307–331
+
+(not finished yet)
 
 ##Desirable properties of good models
 
