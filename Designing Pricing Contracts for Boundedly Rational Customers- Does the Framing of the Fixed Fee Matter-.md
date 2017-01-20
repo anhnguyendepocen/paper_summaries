@@ -1,4 +1,4 @@
-﻿# Designing Pricing Contracts for Boundedly Rational Customers: Does the Framing of the Fixed Fee Matter?
+# Designing Pricing Contracts for Boundedly Rational Customers: Does the Framing of the Fixed Fee Matter?
 
 Tags: summary
 
@@ -42,8 +42,8 @@ Channel efficiency decreases with loss aversion for sufficiently Nash-rational r
 
 loss aversion dominates complexity aversion in explaining the data.
 
-
-
+![](Designing Pricing Contracts for Boundedly/687_1.png)
+![](Designing Pricing Contracts for Boundedly/689_1.jpg)
 
 
 
