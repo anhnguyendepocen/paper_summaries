@@ -8,16 +8,12 @@ Tags: summary
 
 **Journal:** Management Science, 54 (4), 2008, pp.307–331
 
-##Introduction
+##1. Introduction
 
 ###Context
 manufacturer-retailer channel
 
-**Figure 1 A Taxonomy of Pricing Contracts Fixed**
-|----| Fixed fee not charged | Fixed fee charged Number |
-|----|-----------------------|--------------------------|
-|Number of marginal prices = 1|Linear-price contract|Two-part tariff (Quantity discount)|
-|Number of marginal prices >1|Block tariff|Three-part tariff
+![](Designing Pricing Contracts for Boundedly/687_1.png)
 
 ###Standard economic theories
 1. The introduction of the fixed fee restores channel
@@ -42,8 +38,40 @@ Channel efficiency decreases with loss aversion for sufficiently Nash-rational r
 
 loss aversion dominates complexity aversion in explaining the data.
 
-![](Designing Pricing Contracts for Boundedly/687_1.png)
+##2. The Standard Economic Model and Hypotheses
 ![](Designing Pricing Contracts for Boundedly/689_1.jpg)
+![](Designing Pricing Contracts for Boundedly/689_2.jpg)
+![](Designing Pricing Contracts for Boundedly/689_3.jpg)
+![](Designing Pricing Contracts for Boundedly/689_4.jpg)
+(Remain to be done)
 
+##3. 4. The Experiment and Results
+1. These results conform to the expectation that the double-marginalization problem occurs when only a linear-price contract is used.
+2. The two-part tariff and the quantity discount turn out to be no more efficient than the linear-price contract in coordinating the channel.
+3. In sum, the data rejects the frame invariance hypothesis. The quantity discount contract generates higher channel efficiency than the two-part tariff overall, and gives the manufacturer a larger profit share.
+4. There is minimal evidence of learning across the decision rounds.
 
+##5. A Behavioral Model
+###5.1 The Equilibrium Two-Part Tariff
+Prove of Lemma 1 (Appendix): 
+![](Designing Pricing Contracts for Boundedly/ec2_1.jpg)
+![](Designing Pricing Contracts for Boundedly/ec3_1.jpg)
 
+###5.2 Estimation
+We estimate the behavioral model on the experimental data using the **maximum-likelihood method**.
+
+Overall, the estimation results suggest that the QD condition leads to higher channel efficiency than the TPT condition because the former induces a lower loss-aversion coefficient and is computationally less complex. Next we shall determine the relative importance of the two factors and show that loss aversion is indeed more important than computational complexity in explaining the data.
+
+##6. Alternative Hypotheses
+6.1. Loss Aversion vs. Contract Complexity
+
+6.2. Fairness Concerns
+
+##7. Conclusions
+**Key result**: Channel efficiency decreases with the degree of loss aversion for sufficiently Nash rational retailers.
+In addition, model fit comparison results suggest that loss aversion has more explanatory power than complexity aversion.
+
+**Several directions of future research:**
+1. Study how the fairness perception of the retailer changes when the pro- duction cost structure is the manufacturer’s private information.
+2. The behavioral model can be extended to incorporate dynamics such as the evo- lution of loss aversion over time given subjects’ past payoffs.
+3. We need a **formal theory** that maps framing contexts to the degree of loss aversion. At the moment, we only give directional predictions when we experimentally make loss aversion salient or opaque. A theory that yields **point predictions of the loss-aversion coefficient** can be more powerful.
