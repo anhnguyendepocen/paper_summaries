@@ -10,5 +10,5 @@
 
 ## HKUST MARK5410 Notes and Slides
 
-- [Session 3: Consumer Heterogeneity](https://github.com/lc1915/paper_summaries/blob/master/hkust_session3_overview.md)
-- Gönül, F., & Srinivasan, K. (1993). [Modeling Multiple Sources of Heterogeneity in Multinomial Logit Models: Methodological and Managerial Issues](). Marketing Science, 12(3), 213–229.
+- [Session 3: Consumer Heterogeneity](https://github.com/lc1915/paper_summaries/blob/master/hkust_session3_overview.md).
+- Gönül, F., & Srinivasan, K. (1993). [Modeling Multiple Sources of Heterogeneity in Multinomial Logit Models: Methodological and Managerial Issues](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/mark5410-session3.pdf). Marketing Science, 12(3), 213–229.
