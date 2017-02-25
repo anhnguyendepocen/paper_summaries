@@ -7,3 +7,7 @@
 - **Ho, T.H.** and **Zhang J.**, 2008. [Designing Pricing Contracts for Boundedly Rational Customers: Does the Framing of the Fixed Fee Matter?](https://github.com/lc1915/paper_summaries/blob/master/Designing%20Pricing%20Contracts%20for%20Boundedly%20Rational%20Customers-%20Does%20the%20Framing%20of%20the%20Fixed%20Fee%20Matter-.md). *Management Science*, 54(4), pp.307–331
 - **Lim, N.**, 2010. [Social Loss Aversion and Optimal Contest Design](https://github.com/lc1915/paper_summaries/blob/master/Social%20Loss%20Aversion%20and%20Optimal%20Contest%20Design.md). *Journal of Marketing Research*, 47(4), pp.777-787.
 - **Tversky, A.**, and **Kahneman, D.**, 1974. [Judgment under uncertainty: Heuristics and biases](https://github.com/lc1915/paper_summaries/blob/master/Judgment%20under%20uncertainty-%20Heuristics%20and%20biases.md). *Science*, 185(4157), pp.1124-1131.
+
+## HKUST MARK5410 Notes
+
+- [Session 3: Consumer Heterogeneity](https://github.com/lc1915/paper_summaries/blob/master/hkust_session3_overview.md)
