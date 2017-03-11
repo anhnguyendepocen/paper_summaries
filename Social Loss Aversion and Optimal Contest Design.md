@@ -1,4 +1,4 @@
-﻿# Social Loss Aversion and Optimal Contest Design
+# Social Loss Aversion and Optimal Contest Design
 
 Tags: summary
 
@@ -44,6 +44,9 @@ The effort level of high winners situation is higher than the effort level of lo
 ###Experiment 2
 
 ##Feelings about this paper
+### Pros
 - Point estimation of social preference parameters $\alpha$ and $\beta$.
-- Robustness check of the point estimation of $\alpha$ and $\beta$ in experiment 2.
-- (remain to be done)
+- Test robustness of social parameters $\alpha$ and $\beta$ across experimental contexts.
+- Consider multiple alternative assumptions and models, provide cites and analysis on them.
+### Cons
+- Use survey and follow-up experiment to investigate the effect of experimental settings.
