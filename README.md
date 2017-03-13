@@ -14,3 +14,4 @@
 - Gönül, F., & Srinivasan, K. (1993). [Modeling Multiple Sources of Heterogeneity in Multinomial Logit Models: Methodological and Managerial Issues](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/mark5410-session3.pdf). Marketing Science, 12(3), 213–229.
 - [Session 4: Modeling State Dependence and/or Consumer Dynamic Choice Processes](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/hkust_session4_overview.md).
 - Seetharaman, P. B., Ainslie, A., & Chintagunta, P. K. (1999). [Investigating Household State Dependence Effects Across Categories](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/mark5410-session4.pdf). Journal of Marketing Research, 36(4), 488–500. 
+- [Session 5: Analysis of Marketing Mixed Effects](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/hkust_session5_overview.md).
