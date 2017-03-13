@@ -8,7 +8,7 @@
 - **Lim, N.** (2010). [Social Loss Aversion and Optimal Contest Design](https://github.com/lc1915/paper_summaries/blob/master/Social%20Loss%20Aversion%20and%20Optimal%20Contest%20Design.md). *Journal of Marketing Research*, 47(4), 777-787.
 - **Tversky, A.**, and **Kahneman, D.** (1974). [Judgment under uncertainty: Heuristics and biases](https://github.com/lc1915/paper_summaries/blob/master/Judgment%20under%20uncertainty-%20Heuristics%20and%20biases.md). *Science*, 185(4157), 1124-1131.
 
-## HKUST MARK5410 Notes and Slides
+# HKUST MARK5410 Notes and Slides
 
 - [Session 3: Consumer Heterogeneity](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/hkust_session3_overview.md).
 - Gönül, F., & Srinivasan, K. (1993). [Modeling Multiple Sources of Heterogeneity in Multinomial Logit Models: Methodological and Managerial Issues](https://github.com/lc1915/paper_summaries/blob/master/HKUST_Mark5410/mark5410-session3.pdf). Marketing Science, 12(3), 213–229.
