@@ -10,15 +10,15 @@ Tags： summary
 
 **Subtitle:** Biases in judgments reveal some heuristics of thinking under uncertainty.
 
-##Introduction
+## Introduction
 People rely on a limited number of **heuristic** principles which reduce the complex tasks of assessing probabilities and predicting values to simpler judgmental operations.
 
-##Three Heuristic:
+## Three Heuristic:
 - Representativeness
 - Availability
 - Adjustment and Anchoring
 
-###Representativeness
+### Representativeness
 Probabilities are evaluated by the degree to which A is representative of B, that is, by the degree to which A resembles B.
 
 **Usually employed when** people are asked to judge the probability that an object or event A belongs to class or process B.
@@ -32,7 +32,7 @@ May lead to
 - The illusion of validity.
 - Misconceptions of regression.
 
-###Availability
+### Availability
 ->Availability of instances or scenarious
 
 People assess the frequency of a class or the probability of an event by the case with which instances or occurrences can be brought to mind.
@@ -46,7 +46,7 @@ The reliance on availability leads to predictable **biases**, some of which are 
 - Biases of imaginability.
 - Illusory correlation.
 
-###Adjustment and Anchoring
+### Adjustment and Anchoring
 -> Adjustment from an anchor
 
 Different starting points yield different estimates, which are biased toward the initial values.
@@ -56,7 +56,7 @@ Different starting points yield different estimates, which are biased toward the
 - Insufficient adjustment.
 - Anchoring in the assessment of subjective probability destributions.
 
-##Discussion and Conclusion
+## Discussion and Conclusion
 This article has been concerned with cognitive biases that stem from the reliance on judgmental heuristics.
 
 These heuristics (three heuristics) are highly economical and usually effective, but they lead to systematic and predictable errors. A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty.

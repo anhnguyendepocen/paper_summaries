@@ -10,16 +10,16 @@ Tags: summary
 
 (not finished yet)
 
-##Desirable properties of good models
+## Desirable properties of good models
 
 - generality
 - precision
 - empirical accuracy
 - psychological plausibility
 
-##Six behavioral economics models and their applications to marketing
+## Six behavioral economics models and their applications to marketing
 
-###1. Reference dependence
+### 1. Reference dependence
 **Reference dependence**: Decision makers care about changes in outcomes as well as the final outcomes themselves.
 
 **Loss aversion**: They are more sensitive to changes that are coded as losses (relative to a reference point) than to equal-sized changes that are perceived as gains.
@@ -30,5 +30,5 @@ Endowing a person with an object shifts his or her reference point to a state of
 
 **Elasticities** are larger for price increases than for decreases.
 
-####The Generalized Model
+#### The Generalized Model
 

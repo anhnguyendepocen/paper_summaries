@@ -8,12 +8,12 @@ Tags: summary
 
 **Journal:** Information Systems Research, 26 (4), 2015, pp. 639-655.
 
-##Introduction
+## Introduction
 “Antecedents–Privacy Concerns–Outcomes” (APCO), reflects the assumption of "responses to external stimuli result in deliberate analyses, which lead to fully informed privacy-related attitudes and behaviors".
 
 Sometimes behaviors are emotion-laden, spontaneous, or performed without complete information. Prior work on information privacy has rarely accounted for these types of behaviors, and the processes involved in such biased, incomplete decision making and information processing have not been considered.
 
-###Levels of Effort Nomenclature
+### Levels of Effort Nomenclature
 Throughout this commentary, we refer to “high-effort” and “low-effort” cognitive processing.
 
 **Elaboration likelihood model:**
@@ -27,17 +27,17 @@ Modern psychological theories focus on a continuum ranging from high-effort to l
 
 Original APCO model relies on high-effort cognitive processing.
 
-##The Original APCO Model
+## The Original APCO Model
 Each of these macromodels assumes that individuals reflect **thoughtfully** and **deliberately** on their behaviors involving privacy options; however, none of these macromodels considers the nontrivial impact of low-effort thinking and extraneous influence of default heuristic processes and biases when a decision is made.
 
 Important considerations, such as one’s emotional state or cognitive biases (Goes 2013), are overlooked by these macromodels.
 
-##The Enhanced APCO Model
+## The Enhanced APCO Model
 The upper “cloud” represents a set of situational and cognitive limitations that determines the level of effort of processing.
 
 The lower “cloud” represents important extraneous influences that have been identified by the fields of behavioral economics and psychology: biases, heuristics, and misattributions that directly influence privacy-related attitudes and behaviors without much intention, awareness, or cognitive effort.
 
-###Level of Effort and the APCO Relationships
+### Level of Effort and the APCO Relationships
 Low-effort processing involves relatively little cognitive effort or conscious awareness; that is, behavior-relevant information is evaluated by means of simple and relatively automatic cognitive heuristics and mental shortcuts that are based on past experiences, habits, routines, inertia (Polites and Karahanna 2012, 2013), or spontaneous reactions rather than on effortful analysis involving logic and elaborated reasoning.
 
 In the enhanced APCO model, the level of effort
@@ -47,7 +47,7 @@ Because the specific moderating effect (strengthening or weakening) cannot be pr
 
 Proposition M1. *The level of effort employed in processing information regarding privacy-related decisions moderates the APCO relationships in forming privacy-related attitudes and behaviors.*
 
-###Cognitive Resources and Affect as Drivers of Level of Effort
+### Cognitive Resources and Affect as Drivers of Level of Effort
 
 **Information Overload and Limited Cognitive Resources.**
 
@@ -67,7 +67,7 @@ processing.*
 
 Proposition P4. *A higher need for cognition invokes high-effort processing, whereas a lower need for cognition invokes low-effort processing.*
 
-###Extraneous Influences: Peripheral Cues, Biases, Heuristics, and Misattribution Effects
+### Extraneous Influences: Peripheral Cues, Biases, Heuristics, and Misattribution Effects
 **Peripheral Cue: Message Framing.**
 
 Proposition D1. *Message framing acts as a peripheral
@@ -110,7 +110,7 @@ Proposition D7. *Anchoring people’s choices to arbitrary coherence can impact 
 
 Proposition D8. *Herding effects can impact the APCO model constructs.*
 
-##Rethinking APCO
+## Rethinking APCO
 Many of the postulated relations in the enhanced APCO model are most appropriately tested in laboratory experiments, which, because of the need for controls and designed treatments.
 
 Just as with the original APCO model, the enhanced model is best viewed as a macromodel that can guide research over a significant period of time.
