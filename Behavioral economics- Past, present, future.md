@@ -1,4 +1,4 @@
-﻿# Behavioral economics: Past, present, future
+# Behavioral economics: Past, present, future
 
 Tags: summary
 
