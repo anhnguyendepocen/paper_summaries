@@ -1,4 +1,4 @@
-﻿# Editor's comments: Information systems research and behavioral economics
+# Editor's comments: Information systems research and behavioral economics
 
 Tags: summary
 
